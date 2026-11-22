@@ -1,0 +1,3 @@
+# CrewAI runtime used by this project
+crewai==1.15.5
+requests==2.32.5

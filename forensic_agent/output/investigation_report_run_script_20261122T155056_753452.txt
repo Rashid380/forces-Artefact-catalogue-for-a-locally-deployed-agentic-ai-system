@@ -1,0 +1,40 @@
+======================================================================
+DIGITAL FORENSIC INVESTIGATION REPORT
+======================================================================
+
+Generated: 2026-11-22 15:50:56
+Experiment: RUN_SCRIPT
+Status: SUCCESS
+Execution Time: 0.040 seconds
+
+----------------------------------------------------------------------
+SYSTEM INFORMATION
+----------------------------------------------------------------------
+Operating System : Darwin
+Hostname         : Shababs-MacBook-Pro.local
+Username         : shabab
+Python Version   : 3.12.13
+Ollama Model     : llama3.2:3b
+Working Directory: /Users/shabab/Downloads/forensic_agent
+
+----------------------------------------------------------------------
+EVIDENCE INFORMATION
+----------------------------------------------------------------------
+Evidence File : /Users/shabab/Downloads/forensic_agent/scripts/sample_script.py
+File Size     : 272 bytes
+SHA-256       : 00caa426a6df17972218924fc6297f5d8a2f3977a56838bc645676fcd7291e9e
+MD5           : af620d7f43db31d8a8c9791529aa3838
+
+----------------------------------------------------------------------
+ADDITIONAL INFORMATION
+----------------------------------------------------------------------
+Return Code: 0
+
+----------------------------------------------------------------------
+SUMMARY
+----------------------------------------------------------------------
+The action completed with a SUCCESS status. The recorded outputs and metadata should be interpreted within the limitations of this experiment.
+
+======================================================================
+End of Report
+======================================================================

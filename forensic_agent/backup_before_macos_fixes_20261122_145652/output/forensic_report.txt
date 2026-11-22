@@ -1,0 +1,35 @@
+======================================================================
+DIGITAL FORENSIC INVESTIGATION REPORT
+======================================================================
+
+Generated: 2026-11-22 14:49:38
+Experiment: CREATE_FILE
+Status: SUCCESS
+Execution Time: 0.000 seconds
+
+----------------------------------------------------------------------
+SYSTEM INFORMATION
+----------------------------------------------------------------------
+Operating System : Windows
+Hostname         : Win10-Forensics
+Username         : tusha
+Python Version   : 3.12.10
+Ollama Model     : llama3.2:3b
+Working Directory: C:\Users\tusha\Desktop\AgenticAI_Project\forensic_agent
+
+----------------------------------------------------------------------
+EVIDENCE INFORMATION
+----------------------------------------------------------------------
+Evidence File : /Users/shabab/Downloads/forensic_agent/output/forensic_report.txt
+File Size     : 0 bytes
+SHA-256       : 55d6ab8b0496c617bec06957d10ca90dad704d1ff91b4cc89563dc7604bbe9c4
+MD5           : 977095011cde639f270d26b2dcd4619e
+
+----------------------------------------------------------------------
+SUMMARY
+----------------------------------------------------------------------
+The experiment completed successfully and the associated digital evidence was collected. File integrity information was calculated using cryptographic hash functions, and the system environment was recorded to support forensic analysis and reproducibility.
+
+======================================================================
+End of Report
+======================================================================
